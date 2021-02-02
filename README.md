@@ -10,7 +10,9 @@
 | Accounts: Guest account status                                      | Disabled                                       |
 |                                                                     |                                                |
 
-| Windows Firewall  
+
+
+| Windows Firewall                                                    |                                                |
 |---------------------------------------------------------------------|------------------------------------------------|
 | Windows Firewall: Firewall state (Domain)                           | On                                             |
 | Windows Firewall: Firewall state (Private)                          | On                                             |
@@ -19,11 +21,14 @@
 | RDP incomming connection filtering                                  | X                                              |
 
 
+
 | Windows Update                                                      |                                                |
 |---------------------------------------------------------------------|------------------------------------------------|
 | Windows Update                                                      | Setting                                        |
 | Configure Automatic Updates                                         | Enabled : Auto download and notify for install |
 | Server Auto Reboot after updates                                    | Disabled                                       |
+
+
 
 | Security Options                                                    |                                                |
 |---------------------------------------------------------------------|------------------------------------------------|
